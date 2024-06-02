@@ -1,0 +1,3 @@
+Dante Lopez,Lengua,5,B
+Angela Rodriguez,Matematicas,3,A
+Carolina Mendez,Geografia,2,C

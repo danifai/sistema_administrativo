@@ -1,0 +1,3 @@
+3/05/23,Juan Gonzalez,Lengua,Dante Lopez,5,B,-1
+3/04/23,Carlos Quiroga,Matematicas,Angela Rodriguez,3,A,-1
+3/04/23,Daniel Martinez,Geografia,Carolina Mendez,2,C,-1
